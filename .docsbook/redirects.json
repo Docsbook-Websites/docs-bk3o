@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "redirects": [
+    {
+      "from": "guides/overview",
+      "to": "",
+      "at": "2026-09-28T02:10:48.946Z"
+    },
+    {
+      "from": "guides/first-guide",
+      "to": "getting-started",
+      "at": "2026-09-28T02:10:48.946Z"
+    },
+    {
+      "from": "reference/overview",
+      "to": "",
+      "at": "2026-09-28T02:10:48.946Z"
+    },
+    {
+      "from": "reference/configuration",
+      "to": "getting-started",
+      "at": "2026-09-28T02:10:48.946Z"
+    },
+    {
+      "from": "concepts/overview",
+      "to": "",
+      "at": "2026-09-28T02:10:48.946Z"
+    },
+    {
+      "from": "concepts/how-it-works",
+      "to": "",
+      "at": "2026-09-28T02:10:48.946Z"
+    },
+    {
+      "from": "faq",
+      "to": "",
+      "at": "2026-09-28T02:10:48.946Z"
+    },
+    {
+      "from": "changelog",
+      "to": "",
+      "at": "2026-09-28T02:10:48.946Z"
+    }
+  ]
+}

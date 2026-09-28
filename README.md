@@ -1,38 +1,40 @@
 ---
-title: "docs documentation"
-description: "Route every reader of the docs docs in one pass — newcomers to getting started, everybody else to the guides, reference or concepts."
+title: Hello
+description: An honest starting point for the product currently described as “hello”.
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
 <!-- widget:hero -->
 
-**Documentation**
+**Product draft**
 
-# docs documentation
+# Hello
 
-The front door. Keep it short: a sentence on what docs is, a sentence on who it is for, then let the links do the routing.
+The available product description is **“hello”**. This site is a first draft built only from that description, so it does not claim a use case, audience, workflow, capability, integration, price, or limit.
 
-- [Getting started](getting-started.md) {rocket}
-- [Guides](guides/overview.md) {compass}
-- [Reference](reference/overview.md) {braces}
-- [Concepts](concepts/overview.md) {book-open}
+- [Get started](./getting-started.md) — See what is currently known and what is needed next
 
 <!-- /widget -->
 
-<!-- widget:cards cols=2 -->
+## What is known
 
-- [Getting started](getting-started.md) — From nothing to one working result {rocket}
-- [Guides](guides/overview.md) — One page per job somebody came to do {compass}
-- [Reference](reference/overview.md) — Options, fields and values, built to be scanned {braces}
-- [Concepts](concepts/overview.md) — The ideas the rest of the site assumes {book-open}
-- [FAQ](faq.md) — The questions you answer by hand today {circle-help}
-- [Changelog](changelog.md) — What changed, newest first {history}
+No product capability has been named yet. The documentation will grow when the owner provides details that can be checked against the product.
+
+<!-- widget:callout type=note -->
+
+This draft intentionally leaves unknown details out rather than filling the template with guesses.
+
+<!-- /widget -->
+
+## Documentation sections
+
+<!-- widget:cards feature cols=2 -->
+
+- [Getting started](./getting-started.md) — Record the first confirmed steps when they are available {rocket}
 
 <!-- /widget -->
 
-<!-- widget:callout type=tip -->
+## What to provide next
 
-Whatever you would explain here at length belongs on the page it points at instead. A front door that answers questions stops being a door.
-
-<!-- /widget -->
+To turn this shell into useful documentation, provide the product's purpose, intended readers, first-use steps, and named capabilities. A website, repository, or other source of truth can confirm the details in a later pass.
