@@ -1,23 +1,28 @@
 ---
-title: "Getting started"
-description: "Carry a first-time reader of docs from nothing to one working result, with every step spelled out and no setup assumed."
+title: Getting started
+description: The first confirmed steps are not available yet.
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
-# Getting started
+The first-use flow is not documented yet because the hand-off names no setup steps, commands, account requirements, or product workflow.
 
-This page has one job: take somebody from nothing to a first working result with docs. Write it as numbered steps, and make the last step produce something the reader can see.
+<!-- widget:callout type=warning -->
 
-Two rules keep it useful. Assume no prior setup — name the account, the install, the file. And stop at the first result; everything after that is a guide, not this page.
-
-Where a step needs a value only the reader has, say where they find it rather than guessing it for them.
-
-<!-- widget:cards plain cols=2 -->
-
-## Next steps
-
-- [Guides](guides/overview.md) — The jobs that come after the first result {compass}
-- [Reference](reference/overview.md) — Every option, once it starts to matter {braces}
+Do not follow a setup sequence from this page yet. It contains no confirmed product instructions.
 
 <!-- /widget -->
+
+## What is needed
+
+Please provide:
+
+- The product's purpose and the problem it solves
+- Who should use it
+- The first action a new reader should take
+- Any required account, installation, or configuration step
+- The capabilities that deserve their own pages
+
+## Next step
+
+Add a website or repository as a source of truth, or describe the first-use flow directly. This page can then be replaced with verified instructions.
